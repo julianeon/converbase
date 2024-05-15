@@ -1,8 +1,8 @@
-# Description
+## Description
 
 An app and dashboard where you can answer your support questions, then use those answers to train an AI assistant which will eventually take over support for you.
 
-# Architecture
+## Architecture
 
 The basic architecture is as follows.
 
