@@ -1,6 +1,6 @@
 ## Description
 
-An app and dashboard where you can answer your support questions, then use those answers to train an AI assistant which will eventually take over support for you.
+An app and dashboard where you can answer your user's support questions, then use those answers to train an AI assistant to eventually answer most of those questions for you.
 
 ## Architecture
 
